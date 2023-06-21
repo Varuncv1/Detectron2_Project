@@ -20,7 +20,6 @@
   ### pip3 install -r requirements.txt
 
 
-## Video indexes
     1. Buisness use Case and Understanding of data . 
     2. Difference between classification,detection and Segmentation .
     3. State of Art - Detection and Segmentation
