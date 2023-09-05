@@ -14,7 +14,7 @@
     Please refer below link for same.
     https://detectron2.readthedocs.io/en/latest/tutorials/install.html#install-pre-built-detectron2-linux-only
 
-
+PS: The segmented output has been included in the jupyter notebook present in the lib folder
 
 ## Steps needed to build the environment
   ### pip3 install -r requirements.txt
